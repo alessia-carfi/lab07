@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * Tests for the {@link Transformers}.
  */
-class TestFunctionalLibrary {
+public class TestFunctionalLibrary {
 
     private static final List<String> LOREM_IPSUM = List.of(
         "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt".split("\\s")
